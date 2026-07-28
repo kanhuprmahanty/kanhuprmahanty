@@ -60,20 +60,16 @@
 
 <div align="center">
 
-<a href="https://github.com/">
-<img src="https://skillicons.dev/icons?i=github" height="60"/>
-</a>
+<a href="https://github.com/kanhuprmahanty" target="_blank" style="margin:0 15px;">
+  <img src="https://skillicons.dev/icons?i=github" height="60" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://linkedin.com">
-<img src="https://skillicons.dev/icons?i=linkedin" height="60"/>
-</a>
+<a href="https://www.linkedin.com/in/kanhu-prasad-mahanty" target="_blank" style="margin:0 15px;">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="60" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="mailto:yourmail@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="60"/>
-</a>
-
-<a href="https://instagram.com">
-<img src="https://skillicons.dev/icons?i=instagram" height="60"/>
+<a href="mailto:kanhupprmahanty@gmail.com" style="margin:0 15px;">
+  <img src="https://skillicons.dev/icons?i=gmail" height="60" />
 </a>
 
 </div>
@@ -134,9 +130,9 @@
 <div align="center">
 
 ```diff
-+ I love building cool websites 🚀
-+ Coffee + Coding = Perfect Combo ☕
-+ Always learning new technologies 💡
++ I'm on a journey to become a skilled Full Stack Java Developer. ☕
++ I enjoy learning modern frameworks and improving my coding skills every day. 📈
++ I love transforming ideas into user-friendly applications. 💡
 ````
 
 </div>
