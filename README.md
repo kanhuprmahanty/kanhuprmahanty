@@ -8,11 +8,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=kanhuprmahanty&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
 
-<img src="https://img.shields.io/github/followers/kanhuprmahanty?style=for-the-badge&logo=github&color=00F7FF" />
-
-<img src="https://img.shields.io/github/stars/kanhuprmahanty?style=for-the-badge&logo=github&color=FFD700" />
 
 </div>
 
