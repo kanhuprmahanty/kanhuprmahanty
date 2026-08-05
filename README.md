@@ -13,20 +13,6 @@
 </div>
 
 ---
-<details>
-<summary>📚 Click to View My Skills</summary>
-
-<br>
-
-- ☕ Java
-- 🌱 Spring Boot
-- 🗄️ MySQL
-- 🌐 HTML
-- 🎨 CSS
-- ⚡ JavaScript
-- 🔧 Git & GitHub
-
-</details>
 
 
 # 💫 About Me
@@ -51,6 +37,91 @@
 <br><br>
 
 ---
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+</p>
+
+### ⚙️ Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=spring" />
+  <img src="https://skillicons.dev/icons?i=maven" />
+  <img src="https://skillicons.dev/icons?i=hibernate" />
+</p>
+
+**Technologies**
+- Spring Boot
+- Spring MVC
+- Spring Security
+- Spring Data JPA
+- Hibernate
+- REST APIs
+- JDBC
+- Servlets & JSP
+
+---
+
+### 🎨 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" />
+  <img src="https://skillicons.dev/icons?i=tailwind" />
+</p>
+
+**Technologies**
+- React.js
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Bootstrap
+- Tailwind CSS
+
+---
+
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=postgres" />
+</p>
+
+**Technologies**
+- MySQL
+- PostgreSQL
+
+---
+
+### ☁️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,eclipse,idea,docker" />
+</p>
+
+**Tools**
+- Git & GitHub
+- Postman
+- Eclipse IDE
+- IntelliJ IDEA
+- VS Code
+- Docker
+- Maven
+
+---
+
+### 📚 Currently Exploring
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,redis" />
+</p>
+
+- AWS
+- Docker
+- Kubernetes
+- Redis
+- Microservices
+- CI/CD
 
 # 🌐 Connect With Me
 
