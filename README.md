@@ -154,23 +154,6 @@
 
 ---
 
-
-# ⚡ Featured Skills
-
-<div align="center">
-
-| 💻 Frontend | ⚙️ Backend | 🛢️ Database | 🛠️ Tools |
-|-------------|------------|-------------|-----------|
-| HTML5 | Java | MySQL | Git |
-| CSS3 | Spring Boot | Oracle SQL | GitHub |
-| JavaScript | JDBC | MongoDB | VS Code |
-| React JS | REST APIs | PostgreSQL | Maven |
-| Bootstrap | Hibernate | Firebase | Postman |
-
-</div>
-
----
-
 # 🐍 Contribution Snake
 
 <div align="center">
