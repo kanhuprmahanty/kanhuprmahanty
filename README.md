@@ -32,7 +32,6 @@
 - 🎯 Goal: Become a **Top Software Engineer**
 - 🚀 Exploring **Modern Web Technologies**
 - 💬 Ask me about **Java, SQL, Spring Boot, React**
-- 📚 Student at **Naresh i Technologies**
 
 <br><br>
 
